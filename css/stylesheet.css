@@ -1,0 +1,60 @@
+.jumbotron {
+  text-align: center;
+  background-image: url("../mpft-ip/ip2/assets/backgrounds/landing.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.p1{
+  color: #fefefe;
+}
+.p2{
+  color: #fefefe;
+}
+.breakfast {
+  background-image: url("../mpft-ip/ip2/assets/foodtop/breakfast.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+  height: 90px;
+}
+.lunch {
+  background-image: url("../mpft-ip/ip2/assets/foodtop/lunch.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+  height: 90px;
+}
+.dinner {
+  background-image: url("../mpft-ip/ip2/assets/foodtop/dinner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+  height: 90px;
+}
+.party-time {
+  background-color: #ffffff;
+  height: 50px;
+
+}
+.happy-hour {
+  background-color: #FE3010;
+  height: 50px;
+
+}
+.drinks {
+  float: right;
+}
+
+.food-img {
+  float: right;
+}
+
+.food {
+  float: left;
+}
+{
+  background-image: url("mpft-ip/ip2/assets/backgrounds/foodsBg.jpg");
+}
+{
+  background-color: fefefe
+}
